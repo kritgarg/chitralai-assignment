@@ -3,6 +3,8 @@
 
 A modern, high-performance React Native app for viewing event photo galleries. Fully optimized for production with smooth animations, offline caching, and a polished dark mode UI.
 
+📥 **[Download Android APK](final.apk)**
+
 ## Features
 
 - **Event List & Details**: Clean UI with animations.
